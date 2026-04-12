@@ -2,6 +2,10 @@
   "product_id": "MK0437",
   "name": "ČNB Stříbrná mince 200 Kč František Palacký 1998 standard",
   "prices": [
+    {"date": "2026-04-12", "price": 1200},
+    {"date": "2026-04-12", "price": 1200},
+    {"date": "2026-04-12", "price": 1200},
+    {"date": "2026-04-12", "price": 1200},
     {"date": "2026-04-12", "price": 1200}
   ]
 }

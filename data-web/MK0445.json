@@ -2,6 +2,10 @@
   "product_id": "MK0445",
   "name": "ČNB Stříbrná mince 200 Kč Úmrtí sv. Vojtěcha 1997 standard",
   "prices": [
+    {"date": "2026-04-12", "price": 1250},
+    {"date": "2026-04-12", "price": 1250},
+    {"date": "2026-04-12", "price": 1250},
+    {"date": "2026-04-12", "price": 1250},
     {"date": "2026-04-12", "price": 1250}
   ]
 }

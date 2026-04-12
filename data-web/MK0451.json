@@ -2,6 +2,10 @@
   "product_id": "MK0451",
   "name": "ČNB Stříbrná mince 200 Kč Narození Jean-Baptista Gasparda Deburaua 1996 standard",
   "prices": [
+    {"date": "2026-04-12", "price": 1100},
+    {"date": "2026-04-12", "price": 1100},
+    {"date": "2026-04-12", "price": 1100},
+    {"date": "2026-04-12", "price": 1100},
     {"date": "2026-04-12", "price": 1100}
   ]
 }

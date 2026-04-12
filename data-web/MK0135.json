@@ -2,6 +2,10 @@
   "product_id": "MK0135",
   "name": "ČNB Stříbrná mince 500 Kč Václav Thám 2015 proof",
   "prices": [
+    {"date": "2026-04-12", "price": 2300},
+    {"date": "2026-04-12", "price": 2300},
+    {"date": "2026-04-12", "price": 2300},
+    {"date": "2026-04-12", "price": 2300},
     {"date": "2026-04-12", "price": 2300}
   ]
 }

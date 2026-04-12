@@ -2,6 +2,10 @@
   "product_id": "MK0325",
   "name": "ČNB Stříbrná mince 200 Kč Karel Zeman 2010 standard",
   "prices": [
+    {"date": "2026-04-12", "price": 1150},
+    {"date": "2026-04-12", "price": 1150},
+    {"date": "2026-04-12", "price": 1150},
+    {"date": "2026-04-12", "price": 1150},
     {"date": "2026-04-12", "price": 1150}
   ]
 }

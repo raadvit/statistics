@@ -2,6 +2,10 @@
   "product_id": "MK0345",
   "name": "ČNB Stříbrná mince 200 Kč Vydání nařízení Karla IV. o zakládání vinic 2008 standard",
   "prices": [
+    {"date": "2026-04-12", "price": 1200},
+    {"date": "2026-04-12", "price": 1200},
+    {"date": "2026-04-12", "price": 1200},
+    {"date": "2026-04-12", "price": 1200},
     {"date": "2026-04-12", "price": 1200}
   ]
 }
