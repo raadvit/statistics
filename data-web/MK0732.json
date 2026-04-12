@@ -2,10 +2,7 @@
   "product_id": "MK0732",
   "name": "United States Mint Zlatá investiční mince American Eagle 1/4 Oz",
   "prices": [
-    {"date": "2026-04-12", "price": 30653},
-    {"date": "2026-04-12", "price": 30653},
-    {"date": "2026-04-12", "price": 30653},
-    {"date": "2026-04-12", "price": 30653},
-    {"date": "2026-04-12", "price": 30653}
+    {"date": "12.04.2026", "price": 30653},
+    {"date": "2026-04-13", "price": 30204}
   ]
 }

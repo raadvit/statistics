@@ -2,10 +2,7 @@
   "product_id": "MK0789",
   "name": "Perth Mint Zlatá investiční mince Kangaroo 1/10 Oz (Nugget)",
   "prices": [
-    {"date": "2026-04-12", "price": 12226},
-    {"date": "2026-04-12", "price": 12226},
-    {"date": "2026-04-12", "price": 12226},
-    {"date": "2026-04-12", "price": 12226},
-    {"date": "2026-04-12", "price": 12226}
+    {"date": "12.04.2026", "price": 12226},
+    {"date": "2026-04-13", "price": 12048}
   ]
 }

@@ -2,10 +2,7 @@
   "product_id": "MK0796",
   "name": "China Mint Zlatá investiční mince Panda 1g 2026",
   "prices": [
-    {"date": "2026-04-12", "price": 4030},
-    {"date": "2026-04-12", "price": 4030},
-    {"date": "2026-04-12", "price": 4030},
-    {"date": "2026-04-12", "price": 4030},
-    {"date": "2026-04-12", "price": 4030}
+    {"date": "12.04.2026", "price": 4030},
+    {"date": "2026-04-13", "price": 4030}
   ]
 }

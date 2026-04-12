@@ -2,10 +2,7 @@
   "product_id": "MK0196",
   "name": "ČNB Zlatá mince 2500 Kč Důl Michal Ostrava 2010 standard",
   "prices": [
-    {"date": "2026-04-12", "price": 28540},
-    {"date": "2026-04-12", "price": 28540},
-    {"date": "2026-04-12", "price": 28540},
-    {"date": "2026-04-12", "price": 28540},
-    {"date": "2026-04-12", "price": 28540}
+    {"date": "12.04.2026", "price": 28540},
+    {"date": "2026-04-13", "price": 28540}
   ]
 }

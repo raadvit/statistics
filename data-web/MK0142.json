@@ -2,10 +2,7 @@
   "product_id": "MK0142",
   "name": "ČNB Zlatá mince 5000 Kč Barokní most v Náměšti nad Oslavou 2012 standard",
   "prices": [
-    {"date": "2026-04-12", "price": 55090},
-    {"date": "2026-04-12", "price": 55090},
-    {"date": "2026-04-12", "price": 55090},
-    {"date": "2026-04-12", "price": 55090},
-    {"date": "2026-04-12", "price": 55090}
+    {"date": "12.04.2026", "price": 55090},
+    {"date": "2026-04-13", "price": 55090}
   ]
 }

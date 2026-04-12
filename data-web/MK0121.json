@@ -2,10 +2,7 @@
   "product_id": "MK0121",
   "name": "ČNB Stříbrná mince 500 Kč Přijetí Washingtonské deklarace 2018 proof",
   "prices": [
-    {"date": "2026-04-12", "price": 3400},
-    {"date": "2026-04-12", "price": 3400},
-    {"date": "2026-04-12", "price": 3400},
-    {"date": "2026-04-12", "price": 3400},
-    {"date": "2026-04-12", "price": 3400}
+    {"date": "12.04.2026", "price": 3400},
+    {"date": "2026-04-13", "price": 3400}
   ]
 }

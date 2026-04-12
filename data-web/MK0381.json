@@ -2,10 +2,7 @@
   "product_id": "MK0381",
   "name": "ČNB Stříbrná mince 200 Kč Úmrtí Jakuba Krčína z Jelčan a Sedlčan 2004 standard",
   "prices": [
-    {"date": "2026-04-12", "price": 1300},
-    {"date": "2026-04-12", "price": 1300},
-    {"date": "2026-04-12", "price": 1300},
-    {"date": "2026-04-12", "price": 1300},
-    {"date": "2026-04-12", "price": 1300}
+    {"date": "12.04.2026", "price": 1300},
+    {"date": "2026-04-13", "price": 1300}
   ]
 }

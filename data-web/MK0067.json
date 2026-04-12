@@ -2,10 +2,7 @@
   "product_id": "MK0067",
   "name": "ČNB Stříbrná mince 200 Kč Bedřich Smetana 2024 proof",
   "prices": [
-    {"date": "2026-04-12", "price": 990},
-    {"date": "2026-04-12", "price": 990},
-    {"date": "2026-04-12", "price": 990},
-    {"date": "2026-04-12", "price": 990},
-    {"date": "2026-04-12", "price": 990}
+    {"date": "12.04.2026", "price": 990},
+    {"date": "2026-04-13", "price": 990}
   ]
 }

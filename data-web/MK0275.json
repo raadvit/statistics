@@ -2,10 +2,7 @@
   "product_id": "MK0275",
   "name": "ČNB Stříbrná mince 200 Kč Založení Českých Budějovic 2015 standard",
   "prices": [
-    {"date": "2026-04-12", "price": 2950},
-    {"date": "2026-04-12", "price": 2950},
-    {"date": "2026-04-12", "price": 2950},
-    {"date": "2026-04-12", "price": 2950},
-    {"date": "2026-04-12", "price": 2950}
+    {"date": "12.04.2026", "price": 2950},
+    {"date": "2026-04-13", "price": 2950}
   ]
 }

@@ -2,10 +2,7 @@
   "product_id": "MK0235",
   "name": "ČNB Stříbrná mince 200 Kč Zahájení ražby jáchymovských tolarů 2020 standard",
   "prices": [
-    {"date": "2026-04-12", "price": 1495},
-    {"date": "2026-04-12", "price": 1495},
-    {"date": "2026-04-12", "price": 1495},
-    {"date": "2026-04-12", "price": 1495},
-    {"date": "2026-04-12", "price": 1495}
+    {"date": "12.04.2026", "price": 1495},
+    {"date": "2026-04-13", "price": 1495}
   ]
 }

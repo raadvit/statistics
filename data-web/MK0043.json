@@ -2,10 +2,7 @@
   "product_id": "MK0043",
   "name": "ČNB Stříbrná mince 200 Kč Jan Janský 2021 proof",
   "prices": [
-    {"date": "2026-04-12", "price": 1140},
-    {"date": "2026-04-12", "price": 1140},
-    {"date": "2026-04-12", "price": 1140},
-    {"date": "2026-04-12", "price": 1140},
-    {"date": "2026-04-12", "price": 1140}
+    {"date": "12.04.2026", "price": 1140},
+    {"date": "2026-04-13", "price": 1140}
   ]
 }
