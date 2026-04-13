@@ -1,6 +1,6 @@
 {
-  "product_id": "MK0772",
-  "name": "Münze Österreich Zlatá investiční mince Wiener Philharmoniker 1/4 Oz 2026",
+  "product_id": "MK0739",
+  "name": "Münze Österreich Zlatá investiční mince Wiener Philharmoniker 1/4 Oz 2025",
   "prices": [
     {"date": "2016-01-04", "price": 6696},
     {"date": "2016-01-05", "price": 6732},
@@ -2583,8 +2583,6 @@
     {"date": "2026-04-08", "price": 24856},
     {"date": "2026-04-09", "price": 25046},
     {"date": "2026-04-10", "price": 24804},
-    {"date": "2026-04-12", "price": 27613},
-    {"date": "2026-04-13", "price": 27469},
     {"date": "2026-04-13", "price": 24714}
   ]
 }
