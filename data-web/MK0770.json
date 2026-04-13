@@ -1,0 +1,22 @@
+{
+  "product_id": "MK0770",
+  "name": "Münze Österreich Zlatá investiční mince Wiener Philharmoniker 1/2 Oz 2026",
+  "prices": [
+    {"date": "2016-01-01", "price": 14142},
+    {"date": "2016-03-01", "price": 14975},
+    {"date": "2016-05-01", "price": 15194},
+    {"date": "2016-07-01", "price": 16234},
+    {"date": "2016-09-01", "price": 15720},
+    {"date": "2016-11-01", "price": 15094},
+    {"date": "2017-01-01", "price": 15408},
+    {"date": "2017-03-01", "price": 15712},
+    {"date": "2017-05-01", "price": 14856},
+    {"date": "2017-07-01", "price": 14078},
+    {"date": "2017-09-01", "price": 14196},
+    {"date": "2017-11-01", "price": 13822},
+    {"date": "2018-01-01", "price": 13759},
+    {"date": "2018-03-01", "price": 13706},
+    {"date": "2018-05-01", "price": 14106},
+    {"date": "2026-04-13", "price": 53261}
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "product_id": "MK0737",
+  "name": "Münze Österreich Zlatá investiční mince Wiener Philharmoniker 1 Oz 2025",
+  "prices": [
+    {"date": "2016-01-01", "price": 28284},
+    {"date": "2016-03-01", "price": 29950},
+    {"date": "2016-05-01", "price": 30388},
+    {"date": "2016-07-01", "price": 32470},
+    {"date": "2016-09-01", "price": 31440},
+    {"date": "2016-11-01", "price": 30188},
+    {"date": "2017-01-01", "price": 30816},
+    {"date": "2017-03-01", "price": 31424},
+    {"date": "2017-05-01", "price": 29711},
+    {"date": "2017-07-01", "price": 28154},
+    {"date": "2017-09-01", "price": 28391},
+    {"date": "2017-11-01", "price": 27646},
+    {"date": "2018-01-01", "price": 27518},
+    {"date": "2018-03-01", "price": 27412},
+    {"date": "2018-05-01", "price": 28210}
+  ]
+}

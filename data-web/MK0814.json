@@ -1,0 +1,22 @@
+{
+  "product_id": "MK0814",
+  "name": "Münze Österreich Zlatá investiční mince Wiener Philharmoniker 1/10 Oz (20ks)",
+  "prices": [
+    {"date": "2016-01-01", "price": 2828},
+    {"date": "2016-03-01", "price": 2995},
+    {"date": "2016-05-01", "price": 3038},
+    {"date": "2016-07-01", "price": 3247},
+    {"date": "2016-09-01", "price": 3144},
+    {"date": "2016-11-01", "price": 3019},
+    {"date": "2017-01-01", "price": 3082},
+    {"date": "2017-03-01", "price": 3142},
+    {"date": "2017-05-01", "price": 2971},
+    {"date": "2017-07-01", "price": 2816},
+    {"date": "2017-09-01", "price": 2839},
+    {"date": "2017-11-01", "price": 2764},
+    {"date": "2018-01-01", "price": 2752},
+    {"date": "2018-03-01", "price": 2742},
+    {"date": "2018-05-01", "price": 2822},
+    {"date": "2026-04-13", "price": 220831}
+  ]
+}
