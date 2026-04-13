@@ -2,7 +2,6 @@
   "product_id": "MK0785",
   "name": "Perth Mint Zlatá investiční mince Kangaroo 1/4 Oz 2026",
   "prices": [
-    {"date": "12.04.2026", "price": 27496},
-    {"date": "2026-04-13", "price": 27250}
+    {"date": "12.04.2026", "price": 27496}
   ]
 }

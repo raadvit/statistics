@@ -2,7 +2,6 @@
   "product_id": "MK0130",
   "name": "ČNB Stříbrná mince 500 Kč Jiří Trnka 2012 standard",
   "prices": [
-    {"date": "12.04.2026", "price": 2050},
-    {"date": "2026-04-13", "price": 2050}
+    {"date": "12.04.2026", "price": 2050}
   ]
 }

@@ -2,7 +2,6 @@
   "product_id": "MK0287",
   "name": "ČNB Stříbrná mince 200 Kč Kryštof Harant z Polžic a Bezdružic 2014 standard",
   "prices": [
-    {"date": "12.04.2026", "price": 1345},
-    {"date": "2026-04-13", "price": 1345}
+    {"date": "12.04.2026", "price": 1345}
   ]
 }

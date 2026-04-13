@@ -2,7 +2,6 @@
   "product_id": "MK0864",
   "name": "Perth Mint Stříbrná investiční mince Kangaroo 1 Oz 2026",
   "prices": [
-    {"date": "12.04.2026", "price": 2523},
-    {"date": "2026-04-13", "price": 2523}
+    {"date": "12.04.2026", "price": 2523}
   ]
 }

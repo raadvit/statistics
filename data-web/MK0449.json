@@ -2,7 +2,6 @@
   "product_id": "MK0449",
   "name": "ČNB Stříbrná mince 200 Kč Česká mše vánoční Jakuba Jana Ryby 1996 standard",
   "prices": [
-    {"date": "12.04.2026", "price": 1200},
-    {"date": "2026-04-13", "price": 1200}
+    {"date": "12.04.2026", "price": 1200}
   ]
 }

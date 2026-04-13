@@ -2,7 +2,6 @@
   "product_id": "MK0112",
   "name": "ČNB Zlatá mince 10000 Kč Zlatá bula sicilská 2012 standard",
   "prices": [
-    {"date": "12.04.2026", "price": 125090},
-    {"date": "2026-04-13", "price": 125090}
+    {"date": "12.04.2026", "price": 125090}
   ]
 }

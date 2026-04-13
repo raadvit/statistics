@@ -2,7 +2,6 @@
   "product_id": "MK0409",
   "name": "ČNB Stříbrná mince 200 Kč Úmrtí Kiliána Ignáce Dientzenhofera 2001 standard",
   "prices": [
-    {"date": "12.04.2026", "price": 1110},
-    {"date": "2026-04-13", "price": 1110}
+    {"date": "12.04.2026", "price": 1110}
   ]
 }

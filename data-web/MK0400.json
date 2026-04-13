@@ -2,7 +2,6 @@
   "product_id": "MK0400",
   "name": "ČNB Stříbrná mince 200 Kč Úmrtí Emila Holuba 2002 proof",
   "prices": [
-    {"date": "12.04.2026", "price": 5900},
-    {"date": "2026-04-13", "price": 5900}
+    {"date": "12.04.2026", "price": 5900}
   ]
 }

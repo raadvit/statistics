@@ -2,7 +2,6 @@
   "product_id": "MK0115",
   "name": "ČNB Zlatá mince 10000 Kč Jan Hus 2015 proof",
   "prices": [
-    {"date": "12.04.2026", "price": 129654},
-    {"date": "2026-04-13", "price": 129654}
+    {"date": "12.04.2026", "price": 129654}
   ]
 }

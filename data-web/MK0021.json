@@ -2,7 +2,6 @@
   "product_id": "MK0021",
   "name": "ČNB Zlatá mince 5000 Kč Jihlava 2021 standard",
   "prices": [
-    {"date": "12.04.2026", "price": 56530},
-    {"date": "2026-04-13", "price": 56530}
+    {"date": "12.04.2026", "price": 56530}
   ]
 }

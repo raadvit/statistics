@@ -2,7 +2,6 @@
   "product_id": "MK0291",
   "name": "ČNB Stříbrná mince 200 Kč 17. listopad 1989 2014 standard",
   "prices": [
-    {"date": "12.04.2026", "price": 1586},
-    {"date": "2026-04-13", "price": 1586}
+    {"date": "12.04.2026", "price": 1586}
   ]
 }

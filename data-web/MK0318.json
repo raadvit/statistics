@@ -2,7 +2,6 @@
   "product_id": "MK0318",
   "name": "ČNB Stříbrná mince 200 Kč Petr Vok z Rožmberka 2011 proof",
   "prices": [
-    {"date": "12.04.2026", "price": 1300},
-    {"date": "2026-04-13", "price": 1300}
+    {"date": "12.04.2026", "price": 1300}
   ]
 }

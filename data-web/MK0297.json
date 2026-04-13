@@ -2,7 +2,6 @@
   "product_id": "MK0297",
   "name": "ČNB Stříbrná mince 200 Kč Josef Bican 2013 standard",
   "prices": [
-    {"date": "12.04.2026", "price": 1295},
-    {"date": "2026-04-13", "price": 1295}
+    {"date": "12.04.2026", "price": 1295}
   ]
 }

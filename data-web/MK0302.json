@@ -2,7 +2,6 @@
   "product_id": "MK0302",
   "name": "Stříbrná mince 200 Kč 20 let ČNB a české měny 2013 proof",
   "prices": [
-    {"date": "12.04.2026", "price": 1170},
-    {"date": "2026-04-13", "price": 1170}
+    {"date": "12.04.2026", "price": 1170}
   ]
 }

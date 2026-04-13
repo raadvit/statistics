@@ -2,7 +2,6 @@
   "product_id": "MK0386",
   "name": "ČNB Stříbrná mince 200 Kč Narození Leoše Janáčka 2004 proof",
   "prices": [
-    {"date": "12.04.2026", "price": 4400},
-    {"date": "2026-04-13", "price": 4400}
+    {"date": "12.04.2026", "price": 4400}
   ]
 }

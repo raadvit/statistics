@@ -2,7 +2,6 @@
   "product_id": "MK0308",
   "name": "ČNB Stříbrná mince 200 Kč Rudolf II. 2012 proof",
   "prices": [
-    {"date": "12.04.2026", "price": 1190},
-    {"date": "2026-04-13", "price": 1190}
+    {"date": "12.04.2026", "price": 1190}
   ]
 }
