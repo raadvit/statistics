@@ -2,6 +2,7 @@
   "product_id": "MK0239",
   "name": "ČNB Stříbrná mince 200 Kč Božena Němcová 2020 standard",
   "prices": [
-    {"date": "2026-04-13", "price": 1340}
+    {"date": "2026-04-13", "price": 1340},
+    {"date": "2026-04-14", "price": 1340}
   ]
 }

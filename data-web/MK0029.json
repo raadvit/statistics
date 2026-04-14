@@ -2,6 +2,7 @@
   "product_id": "MK0029",
   "name": "ČNB Zlatá mince 5000 Kč Hradec Králové 2023 standard",
   "prices": [
-    {"date": "2026-04-13", "price": 53560}
+    {"date": "2026-04-13", "price": 53560},
+    {"date": "2026-04-14", "price": 53560}
   ]
 }

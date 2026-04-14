@@ -2,6 +2,7 @@
   "product_id": "MK0314",
   "name": "ČNB Stříbrná mince 200 Kč Zahájení výuky na Pražské konzervatoři 2011 proof",
   "prices": [
-    {"date": "2026-04-13", "price": 1100}
+    {"date": "2026-04-13", "price": 1100},
+    {"date": "2026-04-14", "price": 1100}
   ]
 }

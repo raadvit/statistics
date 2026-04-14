@@ -2,6 +2,7 @@
   "product_id": "MK0018",
   "name": "ČNB Zlatá mince 5000 Kč Cheb 2021 proof",
   "prices": [
-    {"date": "2026-04-13", "price": 54690}
+    {"date": "2026-04-13", "price": 54690},
+    {"date": "2026-04-14", "price": 54690}
   ]
 }

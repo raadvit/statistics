@@ -2,6 +2,7 @@
   "product_id": "MK0393",
   "name": "ČNB Stříbrná mince 200 Kč Narození Josefa Thomayera 2003 standard",
   "prices": [
-    {"date": "2026-04-13", "price": 1200}
+    {"date": "2026-04-13", "price": 1200},
+    {"date": "2026-04-14", "price": 1200}
   ]
 }

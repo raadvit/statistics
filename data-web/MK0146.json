@@ -2,6 +2,7 @@
   "product_id": "MK0146",
   "name": "ČNB Zlatá mince 5000 Kč Dřevěný most v Lenoře 2013 standard",
   "prices": [
-    {"date": "2026-04-13", "price": 55090}
+    {"date": "2026-04-13", "price": 55090},
+    {"date": "2026-04-14", "price": 55090}
   ]
 }

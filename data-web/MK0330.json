@@ -2,6 +2,7 @@
   "product_id": "MK0330",
   "name": "ČNB Stříbrná mince 200 Kč Alfons Mucha 2010 proof",
   "prices": [
-    {"date": "2026-04-13", "price": 1320}
+    {"date": "2026-04-13", "price": 1320},
+    {"date": "2026-04-14", "price": 1240}
   ]
 }

@@ -2,6 +2,7 @@
   "product_id": "MK0133",
   "name": "ČNB Stříbrná mince 500 Kč Jiří Kolář 2014 proof",
   "prices": [
-    {"date": "2026-04-13", "price": 2000}
+    {"date": "2026-04-13", "price": 2000},
+    {"date": "2026-04-14", "price": 2000}
   ]
 }

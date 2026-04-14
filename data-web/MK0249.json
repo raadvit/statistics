@@ -2,6 +2,7 @@
   "product_id": "MK0249",
   "name": "ČNB Stříbrná mince 200 Kč Aleš Hrdlička 2019 standard",
   "prices": [
-    {"date": "2026-04-13", "price": 2750}
+    {"date": "2026-04-13", "price": 2750},
+    {"date": "2026-04-14", "price": 2750}
   ]
 }

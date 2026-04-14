@@ -2,6 +2,7 @@
   "product_id": "MK0006",
   "name": "ČNB Zlatá mince 5000 Kč Olomouc 2024 standard",
   "prices": [
-    {"date": "2026-04-13", "price": 53560}
+    {"date": "2026-04-13", "price": 53560},
+    {"date": "2026-04-14", "price": 53560}
   ]
 }

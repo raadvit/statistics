@@ -2,6 +2,7 @@
   "product_id": "MK0120",
   "name": "ČNB Stříbrná mince 500 Kč Bitva u Zborova 2017 standard",
   "prices": [
-    {"date": "2026-04-13", "price": 4090}
+    {"date": "2026-04-13", "price": 4090},
+    {"date": "2026-04-14", "price": 4090}
   ]
 }

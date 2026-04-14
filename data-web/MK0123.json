@@ -2,6 +2,7 @@
   "product_id": "MK0123",
   "name": "ČNB Stříbrná mince 500 Kč Zahájení vydávání československých platidel 2019 proof",
   "prices": [
-    {"date": "2026-04-13", "price": 2700}
+    {"date": "2026-04-13", "price": 2700},
+    {"date": "2026-04-14", "price": 2700}
   ]
 }
