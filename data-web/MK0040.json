@@ -2,6 +2,7 @@
   "product_id": "MK0040",
   "name": "ČNB Zlatá mince 10000 Kč Začátek vlády knížete Václava 2025 standard",
   "prices": [
+    {"date": "2026-04-10", "price": 119990},
     {"date": "2026-04-13", "price": 119990},
     {"date": "2026-04-14", "price": 119990}
   ]

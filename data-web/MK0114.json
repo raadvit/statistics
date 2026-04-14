@@ -2,6 +2,7 @@
   "product_id": "MK0114",
   "name": "ČNB Zlatá mince 10000 Kč Příchod věrozvěstů Konstantina a Metoděje 2013 standard",
   "prices": [
+    {"date": "2026-04-10", "price": 150350},
     {"date": "2026-04-13", "price": 150350},
     {"date": "2026-04-14", "price": 150350}
   ]

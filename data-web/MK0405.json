@@ -2,6 +2,7 @@
   "product_id": "MK0405",
   "name": "ČNB Stříbrná mince 200 Kč Zavedení společné evropské měny EURO jako oběživa 2001 standard",
   "prices": [
+    {"date": "2026-04-10", "price": 1250},
     {"date": "2026-04-13", "price": 1250},
     {"date": "2026-04-14", "price": 1250}
   ]

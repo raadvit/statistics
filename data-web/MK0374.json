@@ -2,6 +2,7 @@
   "product_id": "MK0374",
   "name": "ČNB Stříbrná mince 200 Kč narození Mikuláše Dačického z Heslova 2005 proof",
   "prices": [
+    {"date": "2026-04-10", "price": 2350},
     {"date": "2026-04-13", "price": 3490},
     {"date": "2026-04-14", "price": 2350}
   ]

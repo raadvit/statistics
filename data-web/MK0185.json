@@ -2,6 +2,7 @@
   "product_id": "MK0185",
   "name": "ČNB Zlatá mince 2500 Kč Pivovar Plzeň 2008 proof",
   "prices": [
+    {"date": "2026-04-10", "price": 26510},
     {"date": "2026-04-13", "price": 26310},
     {"date": "2026-04-14", "price": 26360}
   ]

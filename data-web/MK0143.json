@@ -2,6 +2,7 @@
   "product_id": "MK0143",
   "name": "ČNB Zlatá mince 5000 Kč Negrelliho viadukt v Praze 2012 proof",
   "prices": [
+    {"date": "2026-04-10", "price": 51480},
     {"date": "2026-04-13", "price": 51080},
     {"date": "2026-04-14", "price": 51190}
   ]

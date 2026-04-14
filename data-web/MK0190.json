@@ -2,6 +2,7 @@
   "product_id": "MK0190",
   "name": "ČNB Zlatá mince 2500 Kč Větrný mlýn v Ruprechtově 2009 standard",
   "prices": [
+    {"date": "2026-04-10", "price": 28540},
     {"date": "2026-04-13", "price": 28540},
     {"date": "2026-04-14", "price": 28540}
   ]

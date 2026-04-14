@@ -2,6 +2,7 @@
   "product_id": "MK0355",
   "name": "ČNB Stříbrná mince 200 Kč Vypuštění první umělé družice Země 2007 standard",
   "prices": [
+    {"date": "2026-04-10", "price": 1140},
     {"date": "2026-04-13", "price": 1140},
     {"date": "2026-04-14", "price": 1140}
   ]

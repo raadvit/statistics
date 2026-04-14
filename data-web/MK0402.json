@@ -2,6 +2,7 @@
   "product_id": "MK0402",
   "name": "ČNB Stříbrná mince 200 Kč Narození Mikoláše Alše 2002 proof",
   "prices": [
+    {"date": "2026-04-10", "price": 8500},
     {"date": "2026-04-13", "price": 8500},
     {"date": "2026-04-14", "price": 8500}
   ]

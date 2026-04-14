@@ -2,6 +2,7 @@
   "product_id": "MK0109",
   "name": "ČNB Zlatá mince 10000 Kč Zavedení československé měny 2019 proof",
   "prices": [
+    {"date": "2026-04-10", "price": 105140},
     {"date": "2026-04-13", "price": 105140},
     {"date": "2026-04-14", "price": 105140}
   ]

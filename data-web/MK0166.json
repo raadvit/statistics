@@ -2,6 +2,7 @@
   "product_id": "MK0166",
   "name": "ČNB Zlatá mince 5000 Kč Hrad Rabí 2018 standard",
   "prices": [
+    {"date": "2026-04-10", "price": 56690},
     {"date": "2026-04-13", "price": 56690},
     {"date": "2026-04-14", "price": 56690}
   ]

@@ -2,6 +2,7 @@
   "product_id": "MK0390",
   "name": "ČNB Stříbrná mince 200 Kč Ustavení Svazu lyžařů v Království českém 2003 proof",
   "prices": [
+    {"date": "2026-04-10", "price": 2900},
     {"date": "2026-04-13", "price": 4500},
     {"date": "2026-04-14", "price": 2900}
   ]
