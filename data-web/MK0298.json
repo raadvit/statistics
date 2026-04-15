@@ -1,0 +1,10 @@
+{
+  "product_id": "MK0298",
+  "name": "ČNB Stříbrná mince 200 Kč Josef Bican 2013 proof",
+  "prices": [
+    {"date": "2026-04-10", "price": 1250},
+    {"date": "2026-04-13", "price": 1250},
+    {"date": "2026-04-14", "price": 1250},
+    {"date": "2026-04-15", "price": 1250}
+  ]
+}
