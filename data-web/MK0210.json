@@ -1,0 +1,10 @@
+{
+  "product_id": "MK0210",
+  "name": "ČNB Zlatá mince 2000 Kč Zámek Kačina 2004 standard",
+  "prices": [
+    {"date": "2026-04-10", "price": 30810},
+    {"date": "2026-04-13", "price": 30810},
+    {"date": "2026-04-14", "price": 30810},
+    {"date": "2026-04-15", "price": 30810}
+  ]
+}

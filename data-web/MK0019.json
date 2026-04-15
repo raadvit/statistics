@@ -1,0 +1,10 @@
+{
+  "product_id": "MK0019",
+  "name": "ČNB Zlatá mince 5000 Kč Cheb 2021 standard",
+  "prices": [
+    {"date": "2026-04-10", "price": 56530},
+    {"date": "2026-04-13", "price": 56530},
+    {"date": "2026-04-14", "price": 56530},
+    {"date": "2026-04-15", "price": 56530}
+  ]
+}

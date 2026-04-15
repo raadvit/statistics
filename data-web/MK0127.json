@@ -1,0 +1,10 @@
+{
+  "product_id": "MK0127",
+  "name": "ČNB Stříbrná mince 500 Kč Karel Jaromír Erben 2011 proof",
+  "prices": [
+    {"date": "2026-04-10", "price": 2000},
+    {"date": "2026-04-13", "price": 2000},
+    {"date": "2026-04-14", "price": 2000},
+    {"date": "2026-04-15", "price": 2000}
+  ]
+}

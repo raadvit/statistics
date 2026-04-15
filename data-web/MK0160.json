@@ -1,0 +1,10 @@
+{
+  "product_id": "MK0160",
+  "name": "ČNB Zlatá mince 5000 Kč Hrad Kost 2016 standard",
+  "prices": [
+    {"date": "2026-04-10", "price": 54690},
+    {"date": "2026-04-13", "price": 54690},
+    {"date": "2026-04-14", "price": 54690},
+    {"date": "2026-04-15", "price": 54690}
+  ]
+}

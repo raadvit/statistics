@@ -1,0 +1,10 @@
+{
+  "product_id": "MK0179",
+  "name": "ČNB Zlatá mince 2500 Kč Papírna Velké Losiny 2006 proof",
+  "prices": [
+    {"date": "2026-04-10", "price": 123350},
+    {"date": "2026-04-13", "price": 123350},
+    {"date": "2026-04-14", "price": 123350},
+    {"date": "2026-04-15", "price": 123350}
+  ]
+}

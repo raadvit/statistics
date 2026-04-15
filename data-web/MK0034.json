@@ -1,0 +1,10 @@
+{
+  "product_id": "MK0034",
+  "name": "ČNB Zlatá mince 5000 Kč Štramberk 2025 proof",
+  "prices": [
+    {"date": "2026-04-10", "price": 51580},
+    {"date": "2026-04-13", "price": 51580},
+    {"date": "2026-04-14", "price": 51580},
+    {"date": "2026-04-15", "price": 52570}
+  ]
+}

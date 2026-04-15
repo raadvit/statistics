@@ -1,0 +1,10 @@
+{
+  "product_id": "MK0108",
+  "name": "ČNB Zlatá mince 10000 Kč Vznik Československa 2018 standard",
+  "prices": [
+    {"date": "2026-04-10", "price": 111080},
+    {"date": "2026-04-13", "price": 111080},
+    {"date": "2026-04-14", "price": 111080},
+    {"date": "2026-04-15", "price": 111080}
+  ]
+}

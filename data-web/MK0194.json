@@ -1,0 +1,10 @@
+{
+  "product_id": "MK0194",
+  "name": "ČNB Zlatá mince 2500 Kč Hamr v Dobřívě 2010 standard",
+  "prices": [
+    {"date": "2026-04-10", "price": 28540},
+    {"date": "2026-04-13", "price": 27550},
+    {"date": "2026-04-14", "price": 27550},
+    {"date": "2026-04-15", "price": 27550}
+  ]
+}
