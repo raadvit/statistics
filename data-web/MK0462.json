@@ -3,6 +3,7 @@
   "name": "ČNB Stříbrná mince 200 Kč Vítězství nad fašismem 1995 proof",
   "prices": [
     {"date": "2026-04-15", "price": 5000},
-    {"date": "2026-04-17", "price": 15000}
+    {"date": "2026-04-17", "price": 15000},
+    {"date": "2026-04-21", "price": 15000}
   ]
 }
