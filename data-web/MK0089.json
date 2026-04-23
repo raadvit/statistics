@@ -1,0 +1,14 @@
+{
+  "product_id": "MK0089",
+  "name": "ČNB Stříbrná mince 10000 Kč Založení Velké Prahy 2022 proof",
+  "prices": [
+    {"date": "2026-04-10", "price": 68050},
+    {"date": "2026-04-13", "price": 68050},
+    {"date": "2026-04-14", "price": 68050},
+    {"date": "2026-04-15", "price": 65050},
+    {"date": "2026-04-17", "price": 65050},
+    {"date": "2026-04-21", "price": 65050},
+    {"date": "2026-04-22", "price": 65050},
+    {"date": "2026-04-23", "price": 65050}
+  ]
+}

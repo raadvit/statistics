@@ -1,0 +1,14 @@
+{
+  "product_id": "MK0083",
+  "name": "ČNB Stříbrná mince 500 Kč Osobní automobil Tatra 603 2023 proof",
+  "prices": [
+    {"date": "2026-04-10", "price": 2500},
+    {"date": "2026-04-13", "price": 2500},
+    {"date": "2026-04-14", "price": 2500},
+    {"date": "2026-04-15", "price": 2500},
+    {"date": "2026-04-17", "price": 2500},
+    {"date": "2026-04-21", "price": 2500},
+    {"date": "2026-04-22", "price": 2500},
+    {"date": "2026-04-23", "price": 2500}
+  ]
+}

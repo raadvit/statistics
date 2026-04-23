@@ -1,0 +1,14 @@
+{
+  "product_id": "MK0421",
+  "name": "ČNB Stříbrná mince 200 Kč  Měnová reforma Václava II. a zahájení ražby pražských grošů 2000 standard",
+  "prices": [
+    {"date": "2026-04-10", "price": 1600},
+    {"date": "2026-04-13", "price": 1600},
+    {"date": "2026-04-14", "price": 1600},
+    {"date": "2026-04-15", "price": 1600},
+    {"date": "2026-04-17", "price": 1600},
+    {"date": "2026-04-21", "price": 1600},
+    {"date": "2026-04-22", "price": 1600},
+    {"date": "2026-04-23", "price": 1600}
+  ]
+}

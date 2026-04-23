@@ -1,0 +1,14 @@
+{
+  "product_id": "MK0316",
+  "name": "ČNB Stříbrná mince 200 Kč První dálkový let Jana Kašpara 2011 proof",
+  "prices": [
+    {"date": "2026-04-10", "price": 1250},
+    {"date": "2026-04-13", "price": 1250},
+    {"date": "2026-04-14", "price": 1250},
+    {"date": "2026-04-15", "price": 1250},
+    {"date": "2026-04-17", "price": 1250},
+    {"date": "2026-04-21", "price": 1250},
+    {"date": "2026-04-22", "price": 1250},
+    {"date": "2026-04-23", "price": 1250}
+  ]
+}
