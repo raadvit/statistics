@@ -2,6 +2,7 @@
   "product_id": "MK0516",
   "name": "ČNB Zlatá mince 5000 Kč Plzeň 2026 proof",
   "prices": [
-    {"date": "2026-05-19", "price": 61399}
+    {"date": "2026-05-19", "price": 61399},
+    {"date": "2026-05-20", "price": 63993}
   ]
 }
