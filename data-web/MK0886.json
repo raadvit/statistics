@@ -1,10 +1,11 @@
 {
   "product_id": "MK0886",
-  "name": "",
+  "name": "ČNB Státovka Hladová koruna 1953 UNC",
   "prices": [
     {"date": "2026-06-08", "price": 590},
     {"date": "2026-06-09", "price": 590},
     {"date": "2026-06-10", "price": 590},
-    {"date": "2026-06-11", "price": 590}
+    {"date": "2026-06-11", "price": 590},
+    {"date": "2026-06-12", "price": 7590}
   ]
 }
