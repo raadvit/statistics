@@ -2,7 +2,7 @@
   "product_id": "MK0464",
   "name": "ČNB Stříbrná mince 200 Kč Ochrana a tvorba životního prostředí 1994 proof",
   "prices": [
-    {"date": "2026-04-10", "price": 29550},
+    {"date": "2026-04-06", "price": 29550},
     {"date": "2026-04-13", "price": 29550},
     {"date": "2026-04-14", "price": 29550},
     {"date": "2026-04-15", "price": 29550},
@@ -61,6 +61,7 @@
     {"date": "2026-07-03", "price": 29550},
     {"date": "2026-07-06", "price": 29550},
     {"date": "2026-07-07", "price": 29550},
-    {"date": "2026-07-08", "price": 29550}
+    {"date": "2026-07-08", "price": 29550},
+    {"date": "2026-07-09", "price": 29550}
   ]
 }

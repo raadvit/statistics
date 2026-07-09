@@ -2,7 +2,7 @@
   "product_id": "MK0087",
   "name": "ČNB Stříbrná mince 500 Kč Cvičný letoun Aero L-39 Albatros 2025 proof",
   "prices": [
-    {"date": "2026-04-10", "price": 2700},
+    {"date": "2026-04-06", "price": 2700},
     {"date": "2026-04-13", "price": 2700},
     {"date": "2026-04-14", "price": 2700},
     {"date": "2026-04-15", "price": 2700},
@@ -62,6 +62,7 @@
     {"date": "2026-07-03", "price": 3040},
     {"date": "2026-07-06", "price": 3040},
     {"date": "2026-07-07", "price": 3040},
-    {"date": "2026-07-08", "price": 3040}
+    {"date": "2026-07-08", "price": 3040},
+    {"date": "2026-07-09", "price": 3040}
   ]
 }

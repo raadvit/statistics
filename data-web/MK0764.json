@@ -2,7 +2,7 @@
   "product_id": "MK0764",
   "name": "ČNB Sada zlatých mincí - Kulturní památky technického dědictví 2006–2010 standard",
   "prices": [
-    {"date": "2026-04-10", "price": 368783},
+    {"date": "2026-04-06", "price": 368783},
     {"date": "2026-04-13", "price": 367272},
     {"date": "2026-04-14", "price": 367322},
     {"date": "2026-04-15", "price": 367080},
@@ -61,6 +61,7 @@
     {"date": "2026-07-03", "price": 356303},
     {"date": "2026-07-06", "price": 356303},
     {"date": "2026-07-07", "price": 356303},
-    {"date": "2026-07-08", "price": 356303}
+    {"date": "2026-07-08", "price": 356303},
+    {"date": "2026-07-09", "price": 356303}
   ]
 }

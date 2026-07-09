@@ -2,7 +2,7 @@
   "product_id": "MK0376",
   "name": "ČNB Stříbrná mince 200 Kč Narození Jana Wericha a Jiřího Voskovce 2005 proof",
   "prices": [
-    {"date": "2026-04-10", "price": 5450},
+    {"date": "2026-04-06", "price": 5450},
     {"date": "2026-04-13", "price": 5700},
     {"date": "2026-04-14", "price": 5450},
     {"date": "2026-04-15", "price": 5450},
@@ -61,6 +61,7 @@
     {"date": "2026-07-03", "price": 5450},
     {"date": "2026-07-06", "price": 5450},
     {"date": "2026-07-07", "price": 5450},
-    {"date": "2026-07-08", "price": 5450}
+    {"date": "2026-07-08", "price": 5450},
+    {"date": "2026-07-09", "price": 5450}
   ]
 }

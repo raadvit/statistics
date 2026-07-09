@@ -2,7 +2,7 @@
   "product_id": "MK0245",
   "name": "ČNB Stříbrná mince 200 Kč Sestrojení prvního letadla české výroby Bohemia B-5 2019 standard",
   "prices": [
-    {"date": "2026-04-10", "price": 2100},
+    {"date": "2026-04-06", "price": 2100},
     {"date": "2026-04-13", "price": 2100},
     {"date": "2026-04-14", "price": 2100},
     {"date": "2026-04-15", "price": 2100},
@@ -61,6 +61,7 @@
     {"date": "2026-07-03", "price": 2100},
     {"date": "2026-07-06", "price": 2100},
     {"date": "2026-07-07", "price": 2100},
-    {"date": "2026-07-08", "price": 2100}
+    {"date": "2026-07-08", "price": 2100},
+    {"date": "2026-07-09", "price": 2100}
   ]
 }

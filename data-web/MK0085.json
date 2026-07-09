@@ -2,7 +2,7 @@
   "product_id": "MK0085",
   "name": "ČNB Stříbrná mince 500 Kč Tramvaj ČKD Tatra T3 2024 proof",
   "prices": [
-    {"date": "2026-04-10", "price": 2800},
+    {"date": "2026-04-06", "price": 2800},
     {"date": "2026-04-13", "price": 2800},
     {"date": "2026-04-14", "price": 2800},
     {"date": "2026-04-15", "price": 2800},
@@ -62,6 +62,7 @@
     {"date": "2026-07-03", "price": 2800},
     {"date": "2026-07-06", "price": 2800},
     {"date": "2026-07-07", "price": 2800},
-    {"date": "2026-07-08", "price": 2800}
+    {"date": "2026-07-08", "price": 2800},
+    {"date": "2026-07-09", "price": 2800}
   ]
 }

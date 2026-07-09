@@ -2,7 +2,7 @@
   "product_id": "MK0117",
   "name": "ČNB Stříbrná mince 500 Kč Vznik Československé národní rady 2016 proof",
   "prices": [
-    {"date": "2026-04-10", "price": 3600},
+    {"date": "2026-04-06", "price": 3600},
     {"date": "2026-04-13", "price": 3600},
     {"date": "2026-04-14", "price": 3600},
     {"date": "2026-04-15", "price": 5700},
@@ -61,6 +61,7 @@
     {"date": "2026-07-03", "price": 4400},
     {"date": "2026-07-06", "price": 4400},
     {"date": "2026-07-07", "price": 4400},
-    {"date": "2026-07-08", "price": 4400}
+    {"date": "2026-07-08", "price": 4400},
+    {"date": "2026-07-09", "price": 4400}
   ]
 }

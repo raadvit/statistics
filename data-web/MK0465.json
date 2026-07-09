@@ -2,7 +2,7 @@
   "product_id": "MK0465",
   "name": "ČNB Stříbrná mince 200 Kč Zahájení provozu první koněspřežné městské tramvaje v Brně 1994 standard",
   "prices": [
-    {"date": "2026-04-10", "price": 1100},
+    {"date": "2026-04-06", "price": 1100},
     {"date": "2026-04-13", "price": 1090},
     {"date": "2026-04-14", "price": 1090},
     {"date": "2026-04-15", "price": 1130},
@@ -61,6 +61,7 @@
     {"date": "2026-07-03", "price": 970},
     {"date": "2026-07-06", "price": 980},
     {"date": "2026-07-07", "price": 980},
-    {"date": "2026-07-08", "price": 950}
+    {"date": "2026-07-08", "price": 950},
+    {"date": "2026-07-09", "price": 940}
   ]
 }

@@ -2,7 +2,7 @@
   "product_id": "MK0479",
   "name": "ČNB Stříbrná mince 100 Kč Bezpečnostní informační služba 2024 proof",
   "prices": [
-    {"date": "2026-04-10", "price": 830},
+    {"date": "2026-04-06", "price": 830},
     {"date": "2026-04-13", "price": 830},
     {"date": "2026-04-14", "price": 830},
     {"date": "2026-04-15", "price": 830},
@@ -61,6 +61,7 @@
     {"date": "2026-07-03", "price": 810},
     {"date": "2026-07-06", "price": 810},
     {"date": "2026-07-07", "price": 810},
-    {"date": "2026-07-08", "price": 810}
+    {"date": "2026-07-08", "price": 810},
+    {"date": "2026-07-09", "price": 810}
   ]
 }

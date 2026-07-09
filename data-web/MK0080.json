@@ -2,7 +2,7 @@
   "product_id": "MK0080",
   "name": "ČNB Stříbrná mince 500 Kč Parní lokomotiva Škoda 498 Albatros 2021 standard",
   "prices": [
-    {"date": "2026-04-10", "price": 19750},
+    {"date": "2026-04-06", "price": 19750},
     {"date": "2026-04-13", "price": 19750},
     {"date": "2026-04-14", "price": 19750},
     {"date": "2026-04-15", "price": 19750},
@@ -62,6 +62,7 @@
     {"date": "2026-07-03", "price": 19750},
     {"date": "2026-07-06", "price": 19750},
     {"date": "2026-07-07", "price": 19750},
-    {"date": "2026-07-08", "price": 19750}
+    {"date": "2026-07-08", "price": 19750},
+    {"date": "2026-07-09", "price": 19750}
   ]
 }
