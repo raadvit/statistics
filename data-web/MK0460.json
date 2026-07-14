@@ -2,7 +2,6 @@
   "product_id": "MK0460",
   "name": "ČNB Stříbrná mince 200 Kč Narození P.J.Šafaříka 1995 proof",
   "prices": [
-    {"date": "2026-04-15", "price": 5000},
     {"date": "2026-04-17", "price": 5000},
     {"date": "2026-04-21", "price": 5000},
     {"date": "2026-04-22", "price": 5000},
@@ -61,6 +60,7 @@
     {"date": "2026-07-08", "price": 5000},
     {"date": "2026-07-09", "price": 5000},
     {"date": "2026-07-10", "price": 5000},
-    {"date": "2026-07-13", "price": 5000}
+    {"date": "2026-07-13", "price": 5000},
+    {"date": "2026-07-14", "price": 5000}
   ]
 }

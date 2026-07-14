@@ -2,7 +2,6 @@
   "product_id": "MK0721",
   "name": "Royal Canadian Mint Zlatá investiční mince Maple Leaf 1/4 Oz 2024",
   "prices": [
-    {"date": "2026-04-15", "price": 27000},
     {"date": "2026-04-17", "price": 27000},
     {"date": "2026-04-21", "price": 27000},
     {"date": "2026-04-22", "price": 27000},
@@ -61,6 +60,7 @@
     {"date": "2026-07-08", "price": 27000},
     {"date": "2026-07-09", "price": 27000},
     {"date": "2026-07-10", "price": 27000},
-    {"date": "2026-07-13", "price": 27000}
+    {"date": "2026-07-13", "price": 27000},
+    {"date": "2026-07-14", "price": 27000}
   ]
 }

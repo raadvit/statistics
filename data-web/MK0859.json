@@ -2,7 +2,6 @@
   "product_id": "MK0859",
   "name": "Argor Heraeus 50g Heimerle + Meule Stříbrné srdce",
   "prices": [
-    {"date": "2026-04-15", "price": 5967},
     {"date": "2026-04-17", "price": 5967},
     {"date": "2026-04-21", "price": 5967},
     {"date": "2026-04-22", "price": 5967},
@@ -61,6 +60,7 @@
     {"date": "2026-07-08", "price": 5967},
     {"date": "2026-07-09", "price": 5967},
     {"date": "2026-07-10", "price": 5967},
-    {"date": "2026-07-13", "price": 5967}
+    {"date": "2026-07-13", "price": 5967},
+    {"date": "2026-07-14", "price": 5967}
   ]
 }
