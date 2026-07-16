@@ -2,7 +2,6 @@
   "product_id": "MK0680",
   "name": "1g Münze Österreich Kinebar Investiční zlatý slitek",
   "prices": [
-    {"date": "2026-04-17", "price": 3680},
     {"date": "2026-04-21", "price": 3680},
     {"date": "2026-04-22", "price": 3680},
     {"date": "2026-04-23", "price": 3680},
@@ -62,6 +61,7 @@
     {"date": "2026-07-10", "price": 3680},
     {"date": "2026-07-13", "price": 3680},
     {"date": "2026-07-14", "price": 3680},
-    {"date": "2026-07-15", "price": 3680}
+    {"date": "2026-07-15", "price": 3680},
+    {"date": "2026-07-16", "price": 3680}
   ]
 }
