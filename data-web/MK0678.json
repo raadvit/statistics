@@ -2,7 +2,7 @@
   "product_id": "MK0678",
   "name": "5g Münze Österreich Kinebar Investiční zlatý slitek",
   "prices": [
-    {"date": "2026-04-21", "price": 16739},
+    {"date": "2026-04-20", "price": 16739},
     {"date": "2026-04-22", "price": 16739},
     {"date": "2026-04-23", "price": 16739},
     {"date": "2026-04-27", "price": 16739},
@@ -63,6 +63,7 @@
     {"date": "2026-07-14", "price": 16739},
     {"date": "2026-07-15", "price": 16739},
     {"date": "2026-07-16", "price": 16739},
-    {"date": "2026-07-17", "price": 16739}
+    {"date": "2026-07-17", "price": 16739},
+    {"date": "2026-07-20", "price": 16739}
   ]
 }

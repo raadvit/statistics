@@ -2,7 +2,7 @@
   "product_id": "MK0766",
   "name": "ČNB Sada zlatých mincí - 10 století architektury 2001–2005 standard",
   "prices": [
-    {"date": "2026-04-21", "price": 330000},
+    {"date": "2026-04-20", "price": 330000},
     {"date": "2026-04-22", "price": 330000},
     {"date": "2026-04-23", "price": 330000},
     {"date": "2026-04-27", "price": 330000},
@@ -63,6 +63,7 @@
     {"date": "2026-07-14", "price": 330000},
     {"date": "2026-07-15", "price": 330000},
     {"date": "2026-07-16", "price": 330000},
-    {"date": "2026-07-17", "price": 330000}
+    {"date": "2026-07-17", "price": 330000},
+    {"date": "2026-07-20", "price": 330000}
   ]
 }
