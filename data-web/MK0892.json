@@ -1,9 +1,10 @@
 {
   "product_id": "MK0892",
-  "name": "Zlatnicek.cz Katalog mincí a medailí 2027 - ČSR, ČR, SR",
+  "name": "Zlatnicek.cz Ceník mincí a medailí 2027 - ČSR, ČR, SR",
   "prices": [
     {"date": "2026-07-21", "price": 200},
     {"date": "2026-07-22", "price": 200},
-    {"date": "2026-07-23", "price": 220}
+    {"date": "2026-07-23", "price": 220},
+    {"date": "2026-07-24", "price": 220}
   ]
 }
