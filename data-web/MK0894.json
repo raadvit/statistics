@@ -3,6 +3,7 @@
   "name": "Sigma Metalytics Investor",
   "prices": [
     {"date": "2026-08-18", "price": 53290},
-    {"date": "2026-08-19", "price": 53290}
+    {"date": "2026-08-19", "price": 53290},
+    {"date": "2026-08-20", "price": 53290}
   ]
 }
