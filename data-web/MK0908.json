@@ -2,6 +2,7 @@
   "product_id": "MK0908",
   "name": "Zlatá investiční mince Goat 1/20 Oz 2027",
   "prices": [
-    {"date": "2026-10-05", "price": 5909}
+    {"date": "2026-10-05", "price": 5909},
+    {"date": "2026-10-06", "price": 5880}
   ]
 }
