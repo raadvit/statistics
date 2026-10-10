@@ -3,7 +3,6 @@
   "name": "ČNB Stříbrná mince 500 Kč Tramvaj ČKD Tatra T3 2024 standard",
   "prices": [
     {"date": "2026-04-01", "price": 3490},
-    {"date": "2026-04-13", "price": 3490},
     {"date": "2026-04-20", "price": 3390},
     {"date": "2026-04-27", "price": 3390},
     {"date": "2026-05-04", "price": 3390},

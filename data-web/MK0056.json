@@ -3,7 +3,6 @@
   "name": "ČNB Stříbrná mince 200 Kč Jan Blahoslav 2023 standard",
   "prices": [
     {"date": "2026-04-01", "price": 1016},
-    {"date": "2026-04-13", "price": 1016},
     {"date": "2026-04-20", "price": 1049},
     {"date": "2026-04-27", "price": 1046},
     {"date": "2026-05-04", "price": 1048},
