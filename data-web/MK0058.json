@@ -2,8 +2,7 @@
   "product_id": "MK0058",
   "name": "ČNB Stříbrná mince 200 Kč Josef Karel Matocha jmenován arcibiskupem olomouckým 2023 standard",
   "prices": [
-    {"date": "2026-04-01", "price": 1028},
-    {"date": "2026-04-27", "price": 1040},
+    {"date": "2026-04-01", "price": 1034},
     {"date": "2026-05-04", "price": 1040},
     {"date": "2026-05-11", "price": 1040},
     {"date": "2026-05-18", "price": 1040},
@@ -15,10 +14,8 @@
     {"date": "2026-06-29", "price": 932},
     {"date": "2026-07-06", "price": 931},
     {"date": "2026-07-13", "price": 907},
-    {"date": "2026-07-20", "price": 922},
-    {"date": "2026-07-24", "price": 920},
-    {"date": "2026-07-27", "price": 930},
-    {"date": "2026-07-28", "price": 920},
+    {"date": "2026-07-20", "price": 921},
+    {"date": "2026-07-27", "price": 925},
     {"date": "2026-07-29", "price": 920},
     {"date": "2026-07-30", "price": 920},
     {"date": "2026-07-31", "price": 920},
@@ -78,6 +75,7 @@
     {"date": "2026-10-16", "price": 925},
     {"date": "2026-10-19", "price": 925},
     {"date": "2026-10-20", "price": 925},
-    {"date": "2026-10-21", "price": 925}
+    {"date": "2026-10-21", "price": 925},
+    {"date": "2026-10-26", "price": 925}
   ]
 }
