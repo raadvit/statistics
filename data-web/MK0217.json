@@ -3,7 +3,7 @@
   "name": "ČNB Bimetalová mince 2000 Kč Zavedení československé koruny 2019 standard",
   "prices": [
     {"date": "2026-04-01", "price": 15506},
-    {"date": "2026-05-04", "price": 15676},
+    {"date": "2026-05-01", "price": 15676},
     {"date": "2026-05-11", "price": 15560},
     {"date": "2026-05-18", "price": 15590},
     {"date": "2026-05-25", "price": 15523},
