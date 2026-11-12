@@ -1,6 +1,6 @@
 {
   "product_id": "MK0746",
-  "name": "Royal Mint Zlatá investiční mince Britannia 1 Oz",
+  "name": "Royal Mint Zlatá investiční mince Britannia 1 Oz 2027",
   "prices": [
     {"date": "2016-01-01", "price": 30167},
     {"date": "2016-03-01", "price": 31923},
@@ -62,8 +62,7 @@
     {"date": "2026-07-20", "price": 90338},
     {"date": "2026-07-27", "price": 89673},
     {"date": "2026-08-03", "price": 92940},
-    {"date": "2026-08-10", "price": 96229},
-    {"date": "2026-08-14", "price": 95464},
+    {"date": "2026-08-10", "price": 95846},
     {"date": "2026-08-18", "price": 96472},
     {"date": "2026-08-19", "price": 95225},
     {"date": "2026-08-20", "price": 97831},
@@ -122,6 +121,7 @@
     {"date": "2026-11-06", "price": 91037},
     {"date": "2026-11-09", "price": 94163},
     {"date": "2026-11-10", "price": 92550},
-    {"date": "2026-11-11", "price": 92046}
+    {"date": "2026-11-11", "price": 92046},
+    {"date": "2026-11-12", "price": 90593}
   ]
 }
