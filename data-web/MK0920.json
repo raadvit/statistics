@@ -1,7 +1,8 @@
 {
   "product_id": "MK0920",
-  "name": "10g Argor Heraeus - Rok Kozy 2027 - Investiční zlatý slitek",
+  "name": "10g Argor Heraeus - Rok kozy 2027 - Investiční zlatý slitek",
   "prices": [
-    {"date": "2026-11-12", "price": 29660}
+    {"date": "2026-11-12", "price": 29660},
+    {"date": "2026-11-13", "price": 29298}
   ]
 }
