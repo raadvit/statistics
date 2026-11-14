@@ -3,8 +3,7 @@
   "name": "ČNB Stříbrná mince 200 Kč První pražská defenestrace 2019 standard",
   "prices": [
     {"date": "2026-04-01", "price": 1349},
-    {"date": "2026-05-01", "price": 1349},
-    {"date": "2026-05-18", "price": 1070},
+    {"date": "2026-05-01", "price": 1210},
     {"date": "2026-05-25", "price": 1070},
     {"date": "2026-06-01", "price": 1070},
     {"date": "2026-06-08", "price": 1070},

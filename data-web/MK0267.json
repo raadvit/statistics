@@ -3,8 +3,7 @@
   "name": "ČNB Stříbrná mince 200 Kč Josef Kainar 2017 standard",
   "prices": [
     {"date": "2026-04-01", "price": 1245},
-    {"date": "2026-05-01", "price": 1242},
-    {"date": "2026-05-18", "price": 1238},
+    {"date": "2026-05-01", "price": 1240},
     {"date": "2026-05-25", "price": 1238},
     {"date": "2026-06-01", "price": 1238},
     {"date": "2026-06-08", "price": 1238},

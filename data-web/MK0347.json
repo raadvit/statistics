@@ -3,8 +3,7 @@
   "name": "ČNB Stříbrná mince 200 Kč Vstup do schengenského prostoru 2008 standard",
   "prices": [
     {"date": "2026-04-01", "price": 1016},
-    {"date": "2026-05-01", "price": 1032},
-    {"date": "2026-05-18", "price": 1016},
+    {"date": "2026-05-01", "price": 1024},
     {"date": "2026-05-25", "price": 1016},
     {"date": "2026-06-01", "price": 1016},
     {"date": "2026-06-08", "price": 1016},

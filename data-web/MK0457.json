@@ -3,8 +3,7 @@
   "name": "ČNB Stříbrná mince 200 Kč Založení OSN 1995 standard",
   "prices": [
     {"date": "2026-04-01", "price": 1130},
-    {"date": "2026-05-01", "price": 1069},
-    {"date": "2026-05-18", "price": 1060},
+    {"date": "2026-05-01", "price": 1064},
     {"date": "2026-05-25", "price": 1060},
     {"date": "2026-06-01", "price": 1060},
     {"date": "2026-06-08", "price": 1060},

@@ -3,8 +3,7 @@
   "name": "Stříbrná mince 200 Kč 20 let ČNB a české měny 2013 standard",
   "prices": [
     {"date": "2026-04-01", "price": 990},
-    {"date": "2026-05-01", "price": 1218},
-    {"date": "2026-05-18", "price": 1180},
+    {"date": "2026-05-01", "price": 1199},
     {"date": "2026-05-25", "price": 1295},
     {"date": "2026-06-01", "price": 1295},
     {"date": "2026-06-08", "price": 1295},

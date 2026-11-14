@@ -3,8 +3,7 @@
   "name": "ČNB Stříbrná mince 200 Kč Vydání čtyř pražských artikulů 2020 proof",
   "prices": [
     {"date": "2026-04-01", "price": 1142},
-    {"date": "2026-05-01", "price": 1100},
-    {"date": "2026-05-18", "price": 1060},
+    {"date": "2026-05-01", "price": 1080},
     {"date": "2026-05-25", "price": 1060},
     {"date": "2026-06-01", "price": 1060},
     {"date": "2026-06-08", "price": 1060},

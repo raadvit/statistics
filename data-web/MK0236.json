@@ -3,8 +3,7 @@
   "name": "ČNB Stříbrná mince 200 Kč Zahájení ražby jáchymovských tolarů 2020 proof",
   "prices": [
     {"date": "2026-04-01", "price": 1150},
-    {"date": "2026-05-01", "price": 1120},
-    {"date": "2026-05-18", "price": 1090},
+    {"date": "2026-05-01", "price": 1105},
     {"date": "2026-05-25", "price": 1090},
     {"date": "2026-06-01", "price": 1090},
     {"date": "2026-06-08", "price": 1090},
