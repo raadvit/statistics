@@ -1,6 +1,6 @@
 {
   "product_id": "MK0567",
-  "name": "10g Argor Heraeus SA Kinebar investiční zlatý slitek",
+  "name": "10g Argor Heraeus Kinebar investiční zlatý slitek",
   "prices": [
     {"date": "2016-01-01", "price": 9863},
     {"date": "2016-03-01", "price": 10437},
@@ -62,8 +62,7 @@
     {"date": "2026-07-27", "price": 29480},
     {"date": "2026-08-03", "price": 31548},
     {"date": "2026-08-10", "price": 32796},
-    {"date": "2026-08-17", "price": 32934},
-    {"date": "2026-08-19", "price": 32448},
+    {"date": "2026-08-17", "price": 32691},
     {"date": "2026-08-20", "price": 33283},
     {"date": "2026-08-21", "price": 33674},
     {"date": "2026-08-24", "price": 34368},
@@ -123,6 +122,7 @@
     {"date": "2026-11-11", "price": 30360},
     {"date": "2026-11-12", "price": 30055},
     {"date": "2026-11-13", "price": 29253},
-    {"date": "2026-11-16", "price": 29121}
+    {"date": "2026-11-16", "price": 29121},
+    {"date": "2026-11-17", "price": 29318}
   ]
 }

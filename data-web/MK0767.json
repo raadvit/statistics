@@ -1,6 +1,6 @@
 {
   "product_id": "MK0767",
-  "name": "50g Argor Heraeus SA Investiční zlatý slitek - litý",
+  "name": "50g Argor Heraeus Investiční zlatý slitek - litý",
   "prices": [
     {"date": "2016-01-01", "price": 49666},
     {"date": "2016-03-01", "price": 52556},
@@ -62,8 +62,7 @@
     {"date": "2026-07-27", "price": 144456},
     {"date": "2026-08-03", "price": 150059},
     {"date": "2026-08-10", "price": 154286},
-    {"date": "2026-08-17", "price": 154998},
-    {"date": "2026-08-19", "price": 152700},
+    {"date": "2026-08-17", "price": 153849},
     {"date": "2026-08-20", "price": 156671},
     {"date": "2026-08-21", "price": 157651},
     {"date": "2026-08-24", "price": 161380},
@@ -123,6 +122,7 @@
     {"date": "2026-11-11", "price": 149376},
     {"date": "2026-11-12", "price": 147695},
     {"date": "2026-11-13", "price": 144957},
-    {"date": "2026-11-16", "price": 143648}
+    {"date": "2026-11-16", "price": 143648},
+    {"date": "2026-11-17", "price": 145031}
   ]
 }

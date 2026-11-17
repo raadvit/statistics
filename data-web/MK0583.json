@@ -1,6 +1,6 @@
 {
   "product_id": "MK0583",
-  "name": "1000g Argor Heraeus SA Investiční stříbrný slitek - litý",
+  "name": "1000g Argor Heraeus Investiční stříbrný slitek - litý",
   "prices": [
     {"date": "2016-01-01", "price": 15061},
     {"date": "2016-03-01", "price": 15996},
@@ -62,8 +62,7 @@
     {"date": "2026-07-27", "price": 51717},
     {"date": "2026-08-03", "price": 54994},
     {"date": "2026-08-10", "price": 57100},
-    {"date": "2026-08-17", "price": 57446},
-    {"date": "2026-08-19", "price": 55399},
+    {"date": "2026-08-17", "price": 56422},
     {"date": "2026-08-20", "price": 58303},
     {"date": "2026-08-21", "price": 59781},
     {"date": "2026-08-24", "price": 59961},
@@ -123,6 +122,7 @@
     {"date": "2026-11-11", "price": 48707},
     {"date": "2026-11-12", "price": 47898},
     {"date": "2026-11-13", "price": 46682},
-    {"date": "2026-11-16", "price": 45055}
+    {"date": "2026-11-16", "price": 45055},
+    {"date": "2026-11-17", "price": 45049}
   ]
 }
