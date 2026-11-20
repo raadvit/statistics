@@ -1,6 +1,6 @@
 {
   "product_id": "MK0670",
-  "name": "1 Oz Argor Heraeus SA Snake Investiční zlatý slitek",
+  "name": "1 Oz Argor Heraeus Snake Investiční zlatý slitek",
   "prices": [
     {"date": "2016-01-01", "price": 32084},
     {"date": "2016-03-01", "price": 33951},
@@ -123,6 +123,7 @@
     {"date": "2026-11-16", "price": 89502},
     {"date": "2026-11-17", "price": 90364},
     {"date": "2026-11-18", "price": 88355},
-    {"date": "2026-11-19", "price": 87414}
+    {"date": "2026-11-19", "price": 87414},
+    {"date": "2026-11-20", "price": 83348}
   ]
 }

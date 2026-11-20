@@ -1,6 +1,6 @@
 {
   "product_id": "MK0691",
-  "name": "1 Oz Argor Heraeus SA Investiční Palladiový slitek",
+  "name": "1 Oz Argor Heraeus Investiční Palladiový slitek",
   "prices": [
     {"date": "2016-01-01", "price": 17981},
     {"date": "2016-03-01", "price": 20112},
@@ -123,6 +123,7 @@
     {"date": "2026-11-16", "price": 32198},
     {"date": "2026-11-17", "price": 32099},
     {"date": "2026-11-18", "price": 31226},
-    {"date": "2026-11-19", "price": 31601}
+    {"date": "2026-11-19", "price": 31601},
+    {"date": "2026-11-20", "price": 29242}
   ]
 }
